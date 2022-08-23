@@ -1,0 +1,11 @@
+---
+title: "My Website"
+---
+Hola, les voy a enseñar a realizar la $Función para devolver un numero multiplicado por 2$
+```{r}
+variable_numero <- 4
+multiplica_por_dos <- function(x) {2*x}
+multiplica_por_dos(variable_numero)
+```
+
+

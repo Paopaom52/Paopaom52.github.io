@@ -1,0 +1,13 @@
+name: "Capacita -R"
+output_dir: "."
+navbar:
+  title: "Intro R"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
